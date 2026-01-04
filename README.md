@@ -49,21 +49,11 @@ We benchmarked this dataset using HyperG-TCM, a Heterogeneous Hypergraph Neural 
 | HyperG-TCM | Hypergraph | 1.0000 | 1.0000 |
 Note: While accuracy saturates on this small pilot set, HyperG-TCM achieves 50% lower training loss, indicating better structural understanding.
 
-##📜 Citation
-If you use this dataset in your research, please cite our paper:
-@article{HyperG_TCM_2026,
-  title={HyperG-TCM: A Heterogeneous Hypergraph Framework for Unveiling Herbal Synergy in Low-Resource Traditional Medicine},
-  author={Vo Thi Kim Anh},
-  journal={Proceedings of the [Conference Name]},
-  year={2026}
-}
-
 ##⚖️ License
 
 This dataset is licensed under the Creative Commons Attribution 4.0 International (CC BY 4.0).
 Original content copyright belongs to the publisher of "Những cây thuốc và vị thuốc Việt Nam". This dataset is a derived work for academic research purposes.
 
-Contact: Vo Thi Kim Anh (vothikimanh@tdtu.edu.vn, thi.kim.anh.vo.st@vsb.cz)
 
 ### Quick Start (Loading the Graph)
 
